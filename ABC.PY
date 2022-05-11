@@ -1,0 +1,1 @@
+STRRRR="ABC"
